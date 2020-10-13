@@ -1,6 +1,5 @@
 package com.windless.custom.exception;
 
-import com.alibaba.fastjson.JSON;
 import lombok.Getter;
 
 /**

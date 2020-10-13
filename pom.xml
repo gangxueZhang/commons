@@ -10,6 +10,7 @@
   <modules>
     <module>commons-dbutils</module>
     <module>commons-custom</module>
+      <module>commons-javolution</module>
   </modules>
   <packaging>pom</packaging>
 
